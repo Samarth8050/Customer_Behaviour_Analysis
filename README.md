@@ -65,8 +65,7 @@ This project reflects **real-world data analyst responsibilities** and is suitab
 ## ▶️ How to Run the Project
 
 1. Clone this repository:
-git clone https://github.com/your-username/project-name.git
-(https://github.com/Samarth8050/Customer_Behaviour_Analysis/tree/main)
+git clone (https://github.com/Samarth8050/Customer_Behaviour_Analysis/tree/main)
 2. Open and run the Python notebooks/scripts for EDA and data cleaning.
 3. Import the cleaned dataset into **MySQL** and execute the SQL queries.
 4. Open the **Power BI (.pbix)** file to explore the dashboard.
