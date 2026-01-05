@@ -9,7 +9,7 @@ This project reflects **real-world data analyst responsibilities** and is suitab
 
 ## 📂 Dataset
 
-* Source: *(Add dataset source – Kaggle / Company Data / Public Dataset)*
+* Source: customer_shopping_behavior.csv
 * Format: CSV / Excel
 * Description: Contains structured data used to analyze trends, performance metrics, and key business insights.
 
@@ -28,23 +28,19 @@ This project reflects **real-world data analyst responsibilities** and is suitab
 1. **Data Loading**
 
    * Imported dataset into Python using Pandas.
+     
 2. **Exploratory Data Analysis (EDA)**
-
    * Analyzed data distribution, trends, and patterns.
    * Identified missing values and outliers.
-3. **Data Cleaning**
-
+4. **Data Cleaning**
    * Handled missing values and duplicates.
    * Standardized column formats and data types.
-4. **SQL Analysis**
-
+5. **SQL Analysis**
    * Loaded cleaned data into MySQL.
    * Wrote SQL queries to answer key business questions.
-5. **Dashboard Development**
-
+6. **Dashboard Development**
    * Built an interactive Power BI dashboard with KPIs and filters.
-6. **Reporting & Presentation**
-
+7. **Reporting & Presentation**
    * Created a structured analytical report.
    * Designed a professional PPT using Gamma.
 
@@ -69,10 +65,8 @@ This project reflects **real-world data analyst responsibilities** and is suitab
 ## ▶️ How to Run the Project
 
 1. Clone this repository:
-
-   ```bash
-[   git clone https://github.com/your-username/project-name.git
-](https://github.com/Samarth8050/Customer_Behaviour_Analysis/tree/main)   ```
+git clone https://github.com/your-username/project-name.git
+(https://github.com/Samarth8050/Customer_Behaviour_Analysis/tree/main)
 2. Open and run the Python notebooks/scripts for EDA and data cleaning.
 3. Import the cleaned dataset into **MySQL** and execute the SQL queries.
 4. Open the **Power BI (.pbix)** file to explore the dashboard.
